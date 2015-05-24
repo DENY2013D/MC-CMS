@@ -2,7 +2,9 @@
 MC-CMS - CMS для MineCraft сервиров.
 
 --------------------------
-
+Version: 0.1 alpha
+Hablon: ***
+Functions: Shop ; LK ; Admin-consol ; Monitoring-gm server
 --------------------------
 
 Надежная защита и высокая производительность.
