@@ -1,6 +1,8 @@
 # MC-CMS
 MC-CMS - CMS для MineCraft сервиров.
 
+http://deny2013d.github.io/MC-CMS/
+
 Version: 0.1 alpha |  Features: Shop (Blocks / Benefits); Admin; Personal Area
 
 Надежная защита и высокая производительность.
