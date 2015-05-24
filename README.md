@@ -1,7 +1,7 @@
 # MC-CMS
 MC-CMS - CMS для MineCraft сервиров.
 ===
-Version: 0.1 alpha |  Features: Shop (Blocks / Benefits); Admin; Personal Area
+# Version: 0.1 alpha |  Features: Shop (Blocks / Benefits); Admin; Personal Area
 
 Надежная защита и высокая производительность.
 Движок позволяет выбирать один из множества алгоритмов шифрования и надежно защищен от хакерских атак, а благодаря технологии Ajax, скорость обработки скриптов занимает всего лишь тысячные доли секунды.
